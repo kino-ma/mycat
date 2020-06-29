@@ -7,4 +7,4 @@ $ make
 $ ./cat cat.c
 ```
 
-You can also generate random text file (`random.txt`) with `make random`
+You can generate random text file (`random.txt`) with `make random`. default length: 10000 chars with base64
